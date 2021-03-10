@@ -1,4 +1,4 @@
-import { useReducer, useState, createContext } from 'react';
+import { useReducer, useState, createContext, useEffect } from 'react';
 import './App.css';
 import Sheep from "./components/Sheep";
 import Message from "./components/Message";
